@@ -5,8 +5,8 @@ import "~/styles/globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "🧼 miNext: A minimal Next.js template",
-	description: "A minimal Next.js template",
+	title: "MINEXT: A Minimal Next.js Template",
+	description: "MINEXT: A Minimal Next.js Template",
 };
 
 export default function RootLayout({
